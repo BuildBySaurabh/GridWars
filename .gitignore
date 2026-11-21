@@ -1,0 +1,31 @@
+# Environment files - never upload secrets
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!.env.*.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
