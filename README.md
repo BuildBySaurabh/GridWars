@@ -1,3 +1,4 @@
+
 # GridWars
 
 **A real-time multiplayer grid.** Join with a name and a color, then race other players to capture cells on a shared
@@ -340,3 +341,6 @@ Honest list of what this does **not** do or has **not** been verified:
 
 **Ideas:** capture cooldowns, territory statistics, sound toggle, pan/zoom, round resets with history, `HttpOnly` cookie sessions,
 Prometheus metrics, a Playwright suite in CI.
+=======
+# GridWars
+
